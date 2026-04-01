@@ -1,0 +1,14 @@
+The applicant has [N] professional/academic references. Assume each provides a
+strong, enthusiastic recommendation:
+
+1. [Name] — [Title] at [Organization]. [Years] experience.
+   [Credentials if relevant].
+   Assumed: [What this recommender endorses about the applicant].
+
+2. [Name] — [Title] at [Organization]. [Years] experience.
+   Assumed: [What this recommender endorses about the applicant].
+
+3. [Name] — [Title] at [Organization]. [Years] experience.
+   Assumed: [What this recommender endorses about the applicant].
+
+Treat as [N] strong LORs from credible professionals/academics.

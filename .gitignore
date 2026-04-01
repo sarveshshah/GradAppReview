@@ -1,0 +1,16 @@
+.env
+__pycache__/
+.venv/
+*.pyc
+.python-version
+
+# Personal application documents — keep local only
+files/*.txt
+files/*.md
+files/*.text
+!files/NAMING.md
+!files/*.example.txt
+
+# Generated review reports
+outputs/
+.DS_Store

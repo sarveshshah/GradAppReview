@@ -1,0 +1,27 @@
+PROGRAM: [Full program name]
+Institution: [University name, School/College]
+Source: [Program URL]
+
+FORMAT & STRUCTURE:
+- [Online/In-person/Hybrid]
+- [Number of courses/credits]
+- [Duration]
+- [Thesis requirement]
+
+CURRICULUM — Core Courses:
+1. [Course number] - [Course name]
+2. [Course number] - [Course name]
+...
+
+CURRICULUM — Electives:
+- [Course number] - [Course name]
+...
+
+ADMISSIONS REQUIREMENTS:
+- [Degree requirements]
+- [Application components: resume, SOP, LORs, transcripts, etc.]
+- [Standardized test requirements]
+
+IMPORTANT CONTEXT FOR EVALUATORS:
+- [Key program characteristics that should inform evaluation]
+- [Any applicant-specific context: GRE submission status, location, etc.]
