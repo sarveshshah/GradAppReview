@@ -2,6 +2,8 @@
 
 A multi-agent system that simulates a graduate admissions committee using LangGraph and multi-provider LLM orchestration. Built to explore agentic AI design patterns — specifically multi-model deliberation, role-based agent specialization, and iterative feedback loops.
 
+> **Important:** This tool is intended solely for **evaluating your application and gaining insights** — identifying weaknesses, checking for inconsistencies, and understanding how your materials might be perceived. I do not condone using AI to write or fabricate any part of a graduate application. Your application should be authentically yours.
+
 ## What It Does
 
 Given a set of application documents (transcripts, SOP, resume, LinkedIn export, portfolio URLs), the system runs them through a pipeline that mirrors how a real admissions committee operates:
