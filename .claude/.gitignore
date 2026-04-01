@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output directories from main.py
+outputs/
+
+# macOS
+.DS_Store
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.swp
