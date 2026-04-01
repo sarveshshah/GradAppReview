@@ -1,4 +1,4 @@
-# AppReview
+# GradAppReview
 
 A multi-agent system that simulates a graduate admissions committee using LangGraph and multi-provider LLM orchestration. Built to explore agentic AI design patterns — specifically multi-model deliberation, role-based agent specialization, and iterative feedback loops.
 
